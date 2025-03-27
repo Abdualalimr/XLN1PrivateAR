@@ -1,0 +1,11 @@
+on week 10 ie. Sprint week 2:
+Monday-
+- working on the all cases, finished the search bar, added filtering and added pagination to that page 
+faced issues with having the filters show all catagories without linking them. 
+tuesdays- 
+similarily added the same features of a search bar, filtering and pagination to the manage users page.
+pretty straightforward due to doing it the previous day.
+wednesday- 
+issues raised regarding the all cases page being when you view or update a case and return to the all cases page it doesnt take you back to the same page 
+number and the filters which were added to stay on so i fixed that. 
+Thursday- 
